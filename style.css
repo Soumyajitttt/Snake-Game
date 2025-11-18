@@ -113,6 +113,16 @@ section {
     box-shadow: 0 0 5px var(--color-accent-food);
 }
 
+.credit {
+    text-align: center; 
+    margin-top: 10px; 
+    padding: 5px; 
+    font-size: 0.8em; 
+    color: #aaa;
+    font-family: sans-serif;
+}
+
+
 .custom-alert {
             position: absolute;
             top: 0;
@@ -165,4 +175,4 @@ section {
                 height: calc(var(--pixel-size) * var(--board-rows)); 
             }
         }
- 
+
